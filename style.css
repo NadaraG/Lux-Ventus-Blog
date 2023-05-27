@@ -7,6 +7,65 @@
 
 /*კონტეინერის სიგანე 1252.58px - საიტის სიგანე 1440*/
 
+html{
+    scroll-behavior: smooth;
+}
+
+p,
+h1,
+img,
+h3,
+a{
+    background-color: transparent;
+}
+
+/*ჰედერი*/
+
+.containerGN{
+    max-width: 1272px;
+    margin: 0 auto;
+    padding: 0 84px;
+}
+
+.header-flexGN{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 37px;
+    padding-bottom: 47px;
+}
+
+.nav-link-GN{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    color: #262626;
+    text-decoration: none;
+}
+
+.nav-link-GN:hover{
+    color: #4CE0D7;
+}
+
+.navigationGN{
+    display: flex;
+    gap: 60px;
+}
+
+.contuctUSGN{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    color: #262626;
+    text-decoration: none;
+    background: #4CE0D7;
+    border-radius: 40px;
+    padding: 9px 32px;
+}
 
 
 .latest-trends-mc{
