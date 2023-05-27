@@ -376,3 +376,69 @@ a{
     gap: 15px;
     background-color: #FFFFFF;
 }
+
+
+/*ეს დავამატე კოდს რომ დამეშორებინა*/
+
+.third-section-mc{
+    margin-bottom: 97px;
+}
+
+
+/*ფუტერი*/
+
+.Footer-top-sideGN{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1272px;
+    margin: 0 auto;
+    padding: 84px 84px;
+    border-bottom: 1px solid #BCBCBC;
+    background-color: #FFFFFF;
+    border-radius: 40px 40px 0 0;
+}
+
+.Footer-Content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 30px;
+    align-items: center;
+    background-color: transparent;
+}
+
+.FooterPGN{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 39px;
+    color: #262626;
+}
+
+.Footer-nav-GN{
+    gap: 21px;
+    background-color: transparent;
+}
+
+footer{
+    margin-bottom: 40px;
+    max-width: 1272px;
+    margin: 0 auto;
+    padding: 0 84px;
+}
+
+.Footer-bottom-sideGN{
+    max-width: 1272px;
+    margin: 0 auto;
+    padding: 34px 84px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    color: #262626;
+    background-color: #FFFFFF;
+}
