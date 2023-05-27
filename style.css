@@ -147,6 +147,86 @@ a{
 
 /*პირველი სექციის დასასრული*/
 
+/*მეორე სექცია ტოპიკები*/
+
+.second-headingGN{
+    margin-bottom: 48px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    color: #262626;
+}
+
+.Topics-cardGN{
+    width: 204px;
+    height: 291px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+    position: relative;
+}
+
+.Topics-cardGN-Content{
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 19px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.ButtonGN{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    color: #262626;
+    text-decoration: none;
+    background: #4CE0D7;
+    border-radius: 40px;
+    padding: 10px;
+}
+
+.ButtonGN:hover,
+.contuctUSGN:hover{
+    background: #8BA9F4;
+    color: #FFFFFF;
+}
+
+.Topics-H-GN{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #262626;
+}
+
+.Topics-galleryGN{
+    display: flex;
+    flex-direction: wrap;
+    gap: 10px;
+}
+
+.TopicsGN{
+    max-width: 1272px;
+    margin: 0 auto;
+    padding: 0 84px;
+    margin-bottom: 87.5px;
+}
+
+/*მეორე სექციის დასასრული*/
+
 
 .latest-trends-mc{
     margin: 0 118px 0 118px;
