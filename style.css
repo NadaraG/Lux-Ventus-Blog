@@ -67,6 +67,86 @@ a{
     padding: 9px 32px;
 }
 
+/*პირველი სექცია*/
+
+.First-section-TotalGN{
+    max-width: 1272px;
+    margin: 0 auto;
+    padding: 0 84px;
+    margin-bottom: 58px;
+}
+
+.first-sectionGN{
+    background-image: url(Assets/Images/FirstSectionImageGN.png);
+    height: 559px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.first-section-contentGN{
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start;
+    height: 100%;
+    gap: 22px;
+}
+
+.P1-GN{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.23em;
+    color: #FFFFFF;
+}
+
+.main-headingGN{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 69px;
+    color: #FFFFFF;
+}
+
+.main-headingGN span{
+    background: -webkit-linear-gradient(#4CE0D7 30%, #8BA9F4 70%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+}
+
+.P2-GN{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.P3-GN{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.first-sectionGN{
+    max-width: 1272px;
+    margin: 0 auto;
+    padding: 0 84px;
+}
+
+
+/*პირველი სექციის დასასრული*/
+
 
 .latest-trends-mc{
     margin: 0 118px 0 118px;
