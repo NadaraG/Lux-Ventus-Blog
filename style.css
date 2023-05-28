@@ -228,8 +228,8 @@ a{
 /*მეორე სექციის დასასრული*/
 
 
-.latest-trends-mc{
-    margin: 0 118px 0 118px;
+.latest-container-mc{
+    margin: 0 auto;
     max-width: 1252px;
     
 }
@@ -441,4 +441,64 @@ footer{
     line-height: 21px;
     color: #262626;
     background-color: #FFFFFF;
+}
+
+
+.tranding-container-mc{
+    max-width: 1252px;
+    margin: 0 118px;
+    
+    
+    
+}
+
+.tranding-card-mc{
+    background-color: #FFFFFF;
+    width: 579px;
+    height: 670px;
+    position: relative;
+    border-radius: 20px;
+    margin-bottom: 88px;
+   
+    
+
+}
+
+
+    
+.tranding-card-button-mc{
+    font-family: 'poppins',sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 175px;
+    border-radius: 40px;
+    background-color: #262626;
+    padding: 9px 49px;
+    position: absolute;
+    top: 20px;
+    left: 34px;
+    
+    
+}
+
+ 
+
+.tranding-list-mc{
+    display: flex;
+    
+    gap: 60px;
+   
+}
+
+.tranding-card2-mc{
+    background-color: #FFFFFF;
+    width: 565px;
+    height: 670px;
+    position: relative;
+    border-radius: 20px;
+    margin-bottom: 88px;
+
 }
