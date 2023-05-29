@@ -114,7 +114,7 @@ a{
 }
 
 .main-headingGN span{
-    background: -webkit-linear-gradient(#4CE0D7 30%, #8BA9F4 70%);
+    background: -webkit-linear-gradient(left,#4CE0D7 43.06%, #8BA9F4 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: 700;
@@ -396,7 +396,7 @@ a{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    max-width: 1272px;
+    max-width: 1440px;
     margin: 0 auto;
     padding: 84px 84px;
     border-bottom: 1px solid #BCBCBC;
@@ -431,11 +431,11 @@ footer{
     margin-bottom: 40px;
     max-width: 1440px;
     margin: 0 auto;
-    padding: 0 84px;
+    
 }
 
 .Footer-bottom-sideGN{
-    max-width: 1272px;
+    max-width: 1440px;
     margin: 0 auto;
     padding: 34px 84px;
     font-family: 'Poppins';
