@@ -22,7 +22,7 @@ a{
 /*ჰედერი*/
 
 .containerGN{
-    max-width: 1272px;
+    max-width: 1440px;
     margin: 0 auto;
     padding: 0 84px;
 }
@@ -70,7 +70,7 @@ a{
 /*პირველი სექცია*/
 
 .First-section-TotalGN{
-    max-width: 1272px;
+    max-width: 1440px;
     margin: 0 auto;
     padding: 0 84px;
     margin-bottom: 58px;
@@ -219,7 +219,7 @@ a{
 }
 
 .TopicsGN{
-    max-width: 1272px;
+    max-width: 1440px;
     margin: 0 auto;
     padding: 0 84px;
     margin-bottom: 87.5px;
@@ -227,6 +227,10 @@ a{
 
 /*მეორე სექციის დასასრული*/
 
+.third-section-mc{
+    max-width: 1272px;
+    margin: 0 auto;
+}
 
 .latest-container-mc{
     margin: 0 auto;
@@ -237,7 +241,7 @@ a{
 .line-mc{
     border-top: 1px solid#BCBCBC;
     max-width: 1267px;
-    margin: 0 80px 52px 80px;
+    margin: 0 0 52px 0;
  
 }
 
@@ -249,7 +253,7 @@ a{
     height: 698px;
     width: 1204px;
     border-radius: 20px;
-    
+    margin: 0 auto;
     
 }
 
