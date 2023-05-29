@@ -429,7 +429,7 @@ a{
 
 footer{
     margin-bottom: 40px;
-    max-width: 1272px;
+    max-width: 1440px;
     margin: 0 auto;
     padding: 0 84px;
 }
@@ -447,10 +447,14 @@ footer{
     background-color: #FFFFFF;
 }
 
+.fourth-section-mc{
+    max-width: 1272px;
+    margin: 0 auto;
+}
 
 .tranding-container-mc{
     max-width: 1252px;
-    margin: 0 118px;
+    margin: 0 auto;
     
     
     
@@ -528,9 +532,9 @@ footer{
 }
 
 .fashionGN{
-    max-width: 1000px;
+    max-width: 1440px;
     margin: 0 auto;
-    padding: 0 auto;
+    padding: 0 118px;
     display: flex;
     flex-direction: column;
 }
