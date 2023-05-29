@@ -460,6 +460,16 @@ footer{
     
 }
 
+.tranding-mc h2{
+    font-family: 'poppins',sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    color: #262626;
+    margin-bottom: 55px;
+    padding: 0 35px;
+}
+
 .tranding-card-mc{
     background-color: #FFFFFF;
     width: 579px;
